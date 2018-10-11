@@ -301,3 +301,12 @@ button:hover {
         width: 100%;
     }
 }
+
+@media screen and (max-width: 600px) {
+    .information {
+        display: none;
+    }
+    .wrapper {
+        width: 100%;
+    }
+}
